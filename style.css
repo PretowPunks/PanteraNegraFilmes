@@ -54,3 +54,7 @@ p {
     opacity: 1;
     border: 1px solid red;
 }
+
+.categoria h2{
+    color: #f0a818;
+}
